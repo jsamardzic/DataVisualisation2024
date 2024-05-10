@@ -1,0 +1,94 @@
+VendorKey,vendor_name,vendor_country,MaterialKey,Material_name,Material Category,TransportationTime (day),ReceiptProcessingTime (day),PlantKey,Production Time (day),Final Production,Total Time (day)
+5.0,DragonCell Energy,China,3,BC-001,Battery Cells,31,2,Belgium: Antwerp,35,Home Battery,69
+6.0,JadePower Battery,Taiwan,4,BMS-001,Battery Management System (BMS),35,2,Belgium: Antwerp,23,Home Battery,61
+2.0,Stiedemann,Germany,5,C-001,Wiring and Connectors,1,2,Belgium: Antwerp,7,Home Battery,11
+2.0,Stiedemann,Germany,6,C-002,Wiring and Connectors,1,2,Belgium: Antwerp,7,EV Car Battery,11
+3.0,Walker-Homenick,Poland,7,CC-001,Charge Controller,2,2,Belgium: Antwerp,13,Home Battery,18
+4.0,Greenfelder and Sons,United States,8,CF-001,Thermal Management System,40,2,Belgium: Antwerp,15,EV Car Battery,58
+4.0,Greenfelder and Sons,United States,9,CF-002,Thermal Management System,40,2,Belgium: Antwerp,15,EV Car Battery,58
+2.0,Stiedemann,Germany,10,ECB-001,Enclosure,1,2,Belgium: Antwerp,5,EV Car Battery,9
+2.0,Stiedemann,Germany,11,EHB-001,Enclosure,1,2,Belgium: Antwerp,5,Home Battery,9
+2.0,Stiedemann,Germany,12,F-001,Miscellaneous,1,2,Belgium: Antwerp,3,EV Car Battery,7
+2.0,Stiedemann,Germany,13,F-002,Miscellaneous,1,2,Belgium: Antwerp,3,Home Battery,7
+2.0,Stiedemann,Germany,14,F-003,Miscellaneous,1,2,Belgium: Antwerp,3,Home Battery,7
+4.0,Greenfelder and Sons,United States,15,HE-001,Thermal Management System,40,2,Belgium: Antwerp,14,EV Car Battery,57
+4.0,Greenfelder and Sons,United States,16,HE-002,Thermal Management System,40,2,Belgium: Antwerp,14,EV Car Battery,57
+2.0,Stiedemann,Germany,17,IM-001,Insulation Materials,1,2,Belgium: Antwerp,4,EV Car Battery,8
+2.0,Stiedemann,Germany,18,IM-002,Insulation Materials,1,2,Belgium: Antwerp,4,EV Car Battery,8
+2.0,Stiedemann,Germany,19,IM-003,Insulation Materials,1,2,Belgium: Antwerp,4,EV Car Battery,8
+1.0,Fadel Group,China,20,IN-001,Inverter,31,2,Belgium: Antwerp,9,Home Battery,43
+6.0,JadePower Battery,Taiwan,21,MS-001,Monitoring system,35,2,Belgium: Antwerp,21,Home Battery,59
+2.0,Stiedemann,Germany,22,OEC-001,Miscellaneous,1,2,Belgium: Antwerp,6,EV Car Battery,10
+2.0,Stiedemann,Germany,23,OEC-002,Miscellaneous,1,2,Belgium: Antwerp,6,EV Car Battery,10
+2.0,Stiedemann,Germany,24,OEC-003,Miscellaneous,1,2,Belgium: Antwerp,1,Home Battery,5
+2.0,Stiedemann,Germany,25,OEC-004,Miscellaneous,1,2,Belgium: Antwerp,2,Home Battery,6
+2.0,Stiedemann,Germany,26,OEC-005,Miscellaneous,1,2,Belgium: Antwerp,3,Home Battery,7
+1.0,Fadel Group,China,27,R-001,Miscellaneous,31,2,Belgium: Antwerp,5,Home Battery,39
+1.0,Fadel Group,China,28,R-002,Miscellaneous,31,2,Belgium: Antwerp,6,EV Car Battery,40
+1.0,Fadel Group,China,29,R-003,Miscellaneous,31,2,Belgium: Antwerp,6,Home Battery,40
+1.0,Fadel Group,China,30,TS-001,Thermal Management System,31,2,Belgium: Antwerp,11,EV Car Battery,45
+1.0,Fadel Group,China,31,TS-002,Thermal Management System,31,2,Belgium: Antwerp,11,EV Car Battery,45
+2.0,Stiedemann,Germany,32,W-001,Wiring and Connectors,1,2,Belgium: Antwerp,3,Home Battery,7
+2.0,Stiedemann,Germany,33,W-002,Wiring and Connectors,1,2,Belgium: Antwerp,3,Home Battery,7
+5.0,DragonCell Energy,China,3,BC-001,Battery Cells,33,2,Poland: Wrocław,35,Home Battery,69
+6.0,JadePower Battery,Taiwan,4,BMS-001,Battery Management System (BMS),37,2,Poland: Wrocław,23,Home Battery,61
+3.0,Walker-Homenick,Poland,5,C-001,Wiring and Connectors,1,2,Poland: Wrocław,7,Home Battery,11
+3.0,Walker-Homenick,Poland,6,C-002,Wiring and Connectors,1,2,Poland: Wrocław,7,EV Car Battery,11
+3.0,Walker-Homenick,Poland,7,CC-001,Charge Controller,1,2,Poland: Wrocław,13,Home Battery,18
+4.0,Greenfelder and Sons,United States,8,CF-001,Thermal Management System,42,2,Poland: Wrocław,15,EV Car Battery,58
+4.0,Greenfelder and Sons,United States,9,CF-002,Thermal Management System,42,2,Poland: Wrocław,15,EV Car Battery,58
+3.0,Walker-Homenick,Poland,10,ECB-001,Enclosure,1,2,Poland: Wrocław,5,EV Car Battery,9
+3.0,Walker-Homenick,Poland,11,EHB-001,Enclosure,1,2,Poland: Wrocław,5,Home Battery,9
+3.0,Walker-Homenick,Poland,12,F-001,Miscellaneous,1,2,Poland: Wrocław,3,EV Car Battery,7
+3.0,Walker-Homenick,Poland,13,F-002,Miscellaneous,1,2,Poland: Wrocław,3,Home Battery,7
+3.0,Walker-Homenick,Poland,14,F-003,Miscellaneous,1,2,Poland: Wrocław,3,Home Battery,7
+4.0,Greenfelder and Sons,United States,15,HE-001,Thermal Management System,42,2,Poland: Wrocław,14,EV Car Battery,57
+4.0,Greenfelder and Sons,United States,16,HE-002,Thermal Management System,42,2,Poland: Wrocław,14,EV Car Battery,57
+3.0,Walker-Homenick,Poland,17,IM-001,Insulation Materials,1,2,Poland: Wrocław,4,EV Car Battery,8
+3.0,Walker-Homenick,Poland,18,IM-002,Insulation Materials,1,2,Poland: Wrocław,4,EV Car Battery,8
+3.0,Walker-Homenick,Poland,19,IM-003,Insulation Materials,1,2,Poland: Wrocław,4,EV Car Battery,8
+1.0,Fadel Group,China,20,IN-001,Inverter,33,2,Poland: Wrocław,9,Home Battery,43
+6.0,JadePower Battery,Taiwan,21,MS-001,Monitoring system,37,2,Poland: Wrocław,21,Home Battery,59
+3.0,Walker-Homenick,Poland,22,OEC-001,Miscellaneous,1,2,Poland: Wrocław,6,EV Car Battery,10
+3.0,Walker-Homenick,Poland,23,OEC-002,Miscellaneous,1,2,Poland: Wrocław,6,EV Car Battery,10
+3.0,Walker-Homenick,Poland,24,OEC-003,Miscellaneous,1,2,Poland: Wrocław,1,Home Battery,5
+3.0,Walker-Homenick,Poland,25,OEC-004,Miscellaneous,1,2,Poland: Wrocław,2,Home Battery,6
+3.0,Walker-Homenick,Poland,26,OEC-005,Miscellaneous,1,2,Poland: Wrocław,3,Home Battery,7
+1.0,Fadel Group,China,27,R-001,Miscellaneous,33,2,Poland: Wrocław,5,Home Battery,39
+1.0,Fadel Group,China,28,R-002,Miscellaneous,33,2,Poland: Wrocław,6,EV Car Battery,40
+1.0,Fadel Group,China,29,R-003,Miscellaneous,33,2,Poland: Wrocław,6,Home Battery,40
+1.0,Fadel Group,China,30,TS-001,Thermal Management System,33,2,Poland: Wrocław,11,EV Car Battery,45
+1.0,Fadel Group,China,31,TS-002,Thermal Management System,33,2,Poland: Wrocław,11,EV Car Battery,45
+2.0,Stiedemann,Germany,32,W-001,Wiring and Connectors,2,2,Poland: Wrocław,3,Home Battery,7
+2.0,Stiedemann,Germany,33,W-002,Wiring and Connectors,2,2,Poland: Wrocław,3,Home Battery,7
+5.0,DragonCell Energy,China,3,BC-001,Battery Cells,32,2,France: Lyon,35,Home Battery,69
+6.0,JadePower Battery,Taiwan,4,BMS-001,Battery Management System (BMS),36,2,France: Lyon,23,Home Battery,61
+2.0,Stiedemann,Germany,5,C-001,Wiring and Connectors,2,2,France: Lyon,7,Home Battery,11
+2.0,Stiedemann,Germany,6,C-002,Wiring and Connectors,2,2,France: Lyon,7,EV Car Battery,11
+3.0,Walker-Homenick,Poland,7,CC-001,Charge Controller,3,2,France: Lyon,13,Home Battery,18
+4.0,Greenfelder and Sons,United States,8,CF-001,Thermal Management System,41,2,France: Lyon,15,EV Car Battery,58
+4.0,Greenfelder and Sons,United States,9,CF-002,Thermal Management System,41,2,France: Lyon,15,EV Car Battery,58
+2.0,Stiedemann,Germany,10,ECB-001,Enclosure,2,2,France: Lyon,5,EV Car Battery,9
+2.0,Stiedemann,Germany,11,EHB-001,Enclosure,2,2,France: Lyon,5,Home Battery,9
+2.0,Stiedemann,Germany,12,F-001,Miscellaneous,2,2,France: Lyon,3,EV Car Battery,7
+2.0,Stiedemann,Germany,13,F-002,Miscellaneous,2,2,France: Lyon,3,Home Battery,7
+2.0,Stiedemann,Germany,14,F-003,Miscellaneous,2,2,France: Lyon,3,Home Battery,7
+4.0,Greenfelder and Sons,United States,15,HE-001,Thermal Management System,41,2,France: Lyon,14,EV Car Battery,57
+4.0,Greenfelder and Sons,United States,16,HE-002,Thermal Management System,41,2,France: Lyon,14,EV Car Battery,57
+2.0,Stiedemann,Germany,17,IM-001,Insulation Materials,2,2,France: Lyon,4,EV Car Battery,8
+2.0,Stiedemann,Germany,18,IM-002,Insulation Materials,2,2,France: Lyon,4,EV Car Battery,8
+2.0,Stiedemann,Germany,19,IM-003,Insulation Materials,2,2,France: Lyon,4,EV Car Battery,8
+1.0,Fadel Group,China,20,IN-001,Inverter,32,2,France: Lyon,9,Home Battery,43
+6.0,JadePower Battery,Taiwan,21,MS-001,Monitoring system,36,2,France: Lyon,21,Home Battery,59
+2.0,Stiedemann,Germany,22,OEC-001,Miscellaneous,2,2,France: Lyon,6,EV Car Battery,10
+2.0,Stiedemann,Germany,23,OEC-002,Miscellaneous,2,2,France: Lyon,6,EV Car Battery,10
+2.0,Stiedemann,Germany,24,OEC-003,Miscellaneous,2,2,France: Lyon,1,Home Battery,5
+2.0,Stiedemann,Germany,25,OEC-004,Miscellaneous,2,2,France: Lyon,2,Home Battery,6
+2.0,Stiedemann,Germany,26,OEC-005,Miscellaneous,2,2,France: Lyon,3,Home Battery,7
+1.0,Fadel Group,China,27,R-001,Miscellaneous,32,2,France: Lyon,5,Home Battery,39
+1.0,Fadel Group,China,28,R-002,Miscellaneous,32,2,France: Lyon,6,EV Car Battery,40
+1.0,Fadel Group,China,29,R-003,Miscellaneous,32,2,France: Lyon,6,Home Battery,40
+1.0,Fadel Group,China,30,TS-001,Thermal Management System,32,2,France: Lyon,11,EV Car Battery,45
+1.0,Fadel Group,China,31,TS-002,Thermal Management System,32,2,France: Lyon,11,EV Car Battery,45
+2.0,Stiedemann,Germany,32,W-001,Wiring and Connectors,2,2,France: Lyon,3,Home Battery,7
+2.0,Stiedemann,Germany,33,W-002,Wiring and Connectors,2,2,France: Lyon,3,Home Battery,7
