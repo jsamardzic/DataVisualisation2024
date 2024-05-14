@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataViz Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+    <div class="button-container">
+        <button class="year-button">2022</button>
+        <button class="year-button">2023</button>
+        <button class="year-button">2024</button>
+    </div>
+
+    <div class="button-container">
+        <button class="battery-button">EV Car Battery</button>
+        <button class="battery-button">Home Battery</button>
+    </div>
+
+    <div class="legend-container">
+        <span class="legend-item"><span class="legend-color" style="background-color: crimson;"></span> Overestimated (Sales < Forecast)</span>
+        <span class="legend-item"><span class="legend-color" style="background-color: forestgreen;"></span> Underestimated (Sales > Forecast)</span>
+    </div>
+
+    <div class="main-container">
+    <div class="matrix-container">
+        <div class="row-labels"></div>
+        <div class="matrix" id="matrix"></div>
+        <div></div>
+        <div class="month-labels"></div>
+    </div>
+
+    <div id="my_dataviz"></div>
+    <div class="quantitySalesText"></div>
+   </div>
+  
+    <script src="script.js"></script>
+
+</body>
+
+</html>
